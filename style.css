@@ -18,3 +18,7 @@ h1{
     padding: 20px;
     margin:auto;
 }
+ul{
+   display: table;
+   margin: auto; 
+}
